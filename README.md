@@ -111,7 +111,6 @@ A full-stack Airbnb Clone REST API built with **Spring Boot, Spring MVC, Hiberna
 
 <p>
   📧 <a href="mailto:ajmerariyansh17@gmail.com">ajmerariyansh17@gmail.com</a> &nbsp;|&nbsp;
-  📱 +91 9587247192 &nbsp;|&nbsp;
   💼 <a href="#">LinkedIn</a>
 </p>
 
