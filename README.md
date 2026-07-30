@@ -1,118 +1,112 @@
-<h1 align="center">
-  Hi there, I'm Riyansh Ajmera <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-</h1>
+<h1 align="center">Hi there, I'm Riyansh Ajmera 👋</h1>
+<h3 align="center">Aspiring Software Developer | MCA Student | Full-Stack Enthusiast</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+Aspiring+Software+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React.js;Building+full-stack+%2B+microservices+projects;Open+to+Associate+SDE+%2F+Intern+roles" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/riyansh-ajmera" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:ajmerariyansh17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ajmerariyansh17%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=120&section=header" width="100%" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Pursuing **MCA** at Geetanjali Institute of Technical Studies (GITS), Udaipur — *Aug 2025 – Present*
-- 💼 Aspiring **Associate Software Developer**, eager to grow across diverse tech stacks and enterprise solutions
-- 🛠️ Hands-on experience across the **full development lifecycle** — web app development, REST API design, database management, and cloud deployment
-- ☁️ Comfortable with **Docker, Kubernetes, CI/CD pipelines**, and cloud platforms like **Google Cloud** and **Firebase**
-- 📚 Strong foundation in **OOP, DBMS, and Data Structures & Algorithms**
-- ⚡ Quick learner, adaptable to new technologies
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)** at Geetanjali Institute of Technical Studies (GITS), Udaipur
+- 💻 Hands-on experience across the **full development lifecycle** — web apps, REST API design, database management, and cloud deployment
+- 🌱 Strong foundation in **OOP, DBMS, and Data Structures & Algorithms**
+- ⚡ Comfortable with **Java, JavaScript, React.js, Node.js, and Spring Boot**
+- ☁️ Exposure to **Docker, Kubernetes, CI/CD pipelines**, and cloud platforms like **Google Cloud & Firebase**
+- 🎯 Eager to contribute as an **Associate Software Developer** and grow across diverse tech stacks and enterprise solutions
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-**Platforms & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
+**Platforms & Tools**
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **IDEs / Editors**
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
-</p>
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
+### 🔥 Featured Projects
 
-#### 🔗 [Distributed LinkedIn Clone (Microservices)](#)
-A LinkedIn Clone built with **Spring Boot Microservices**, featuring User, Post, and Connection services, an API Gateway, and Authentication.
+#### 🔗 [Distributed LinkedIn Clone (Microservices)](https://github.com/YOUR-GITHUB-USERNAME)
+A LinkedIn Clone built using **Spring Boot Microservices**, with dedicated User, Post, and Connection services, an API Gateway, and Authentication.
 - Integrated **Neo4j** for relationship management and **Apache Kafka** for asynchronous notifications
-- Containerized with **Docker** and deployed on **Google Kubernetes Engine (GKE)** with Ingress for traffic routing
+- Containerized services with **Docker** and deployed on **Google Kubernetes Engine (GKE)** with Ingress for traffic routing
 
-`Java` `Spring Boot` `Spring Security` `Microservices` `Docker` `Kubernetes (GKE)` `Apache Kafka` `Neo4j` `API Gateway`
+**Tech Stack:** `Java` `Spring Boot` `Spring Security` `Microservices` `Docker` `Kubernetes (GKE)` `Apache Kafka` `Neo4j` `API Gateway`
 
-#### 🏠 [Airbnb Clone Project](#)
-A full-stack Airbnb Clone REST API built with **Spring Boot, Spring MVC, Hibernate/JPA, and MySQL**.
-- Designed the database schema; implemented hotel management, search, booking, and dynamic pricing
-- Integrated **Spring Security** for authentication/authorization and **Stripe** for secure payments and refunds
-- Built Admin APIs and deployed using CI/CD practices
+#### 🏡 [Airbnb Clone Project](https://github.com/YOUR-GITHUB-USERNAME)
+A full-stack Airbnb Clone REST API built using **Spring Boot, Spring MVC, Hibernate/JPA, and MySQL**.
+- Designed the database schema and implemented hotel management, search, booking, and dynamic pricing features
+- Integrated **Spring Security** for authentication and role-based authorization
+- Implemented **Stripe Payment Gateway** for secure payment and refund processing
+- Built Admin APIs and deployed the application using CI/CD practices
 
-`Java` `Spring Boot` `Spring MVC` `Spring Security` `Hibernate` `Spring Data JPA` `MySQL` `REST APIs` `JWT` `Stripe API` `Maven` `CI/CD`
-
-> 💡 Update the `(#)` links above with your actual GitHub repo URLs.
+**Tech Stack:** `Java` `Spring Boot` `Spring MVC` `Spring Security` `Hibernate` `Spring Data JPA` `MySQL` `REST APIs` `JWT` `Stripe API` `Maven` `Git` `GitHub` `CI/CD`
 
 ---
 
-### 💼 Experience
+### 💼 Professional Experience
 
-**MERN Stack Developer Intern** — Marvik Academy for Technical Education (MATE) *(Jun 2024 – Jul 2024)*
-- Assisted in building web applications using HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, and Express
-- Contributed to UI design/implementation and backend data flow & server-side logic
+**MERN Stack Developer Intern** — Marvik Academy for Technical Education (MATE)
+*June 2024 – July 2024*
+- Assisted in the development of web applications using HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, and Express
+- Contributed to the design and implementation of user interfaces
+- Worked on the backend to manage data flow and server-side logic
 - Participated in debugging and improving the existing codebase
 
 ---
 
-### 🎓 Certifications
-- **Spring Boot 0 to 100** — Coding Shuttle (2026): Spring Boot, Spring Security, JPA/Hibernate, Microservices, Kafka, Docker, Kubernetes
+### 🎓 Education
+
+| Institution | Degree | Duration |
+|---|---|---|
+| Geetanjali Institute of Technical Studies (GITS), Udaipur | Master of Computer Applications (MCA) | Aug 2025 – Present |
+| Mohanlal Sukhadia University, Udaipur | Bachelor of Computer Applications (CGPA: 6.04) | Jul 2021 – Oct 2024 |
+| Central Academy School, OTC Ambamata | Senior Secondary (CBSE), Class XII — 67.2% | 2021 |
+| Central Academy School, OTC Ambamata | Secondary (CBSE), Class X — 54.8% | 2019 |
+
+---
+
+### 📜 Certifications
+
+- **Spring Boot 0 to 100** (Coding Shuttle, 2026) — Covered Spring Boot, Spring Security, JPA/Hibernate, Microservices, Kafka, Docker, and Kubernetes
 - Built real-world distributed backend systems and AI-powered SaaS applications
 - Hands-on experience with system design, scalability, and production-ready architecture
 
@@ -120,15 +114,9 @@ A full-stack Airbnb Clone REST API built with **Spring Boot, Spring MVC, Hiberna
 
 ### 📫 Let's Connect
 
-<p>
-  📧 <a href="mailto:ajmerariyansh17@gmail.com">ajmerariyansh17@gmail.com</a> &nbsp;|&nbsp;
-  💼 <a href="#">LinkedIn</a>
+<p align="left">
+  <a href="mailto:ajmerariyansh17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Open to Associate Software Developer / Intern roles — Java • Spring Boot • React.js</i></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riyansh-ajmera&style=flat-square&color=6DB33F" alt="profile views" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=100&section=footer" width="100%" />
+<p align="center"><i>Open to Associate Software Developer / Fresher opportunities 🚀</i></p>
