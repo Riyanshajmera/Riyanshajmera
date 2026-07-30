@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Riyansh Ajmera</h1>
-<h3 align="center">MCA Student | Aspiring Software Developer | Java • Spring Boot • React.js</h3>
+<h1 align="center">
+  Hi there, I'm Riyansh Ajmera <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+Aspiring+Software+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React.js;Building+full-stack+%2B+microservices+projects;Open+to+Associate+SDE+%2F+Intern+roles" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/riyansh-ajmera" target="_blank">
@@ -8,6 +15,10 @@
   <a href="mailto:ajmerariyansh17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=120&section=header" width="100%" />
 </p>
 
 ---
@@ -115,3 +126,9 @@ A full-stack Airbnb Clone REST API built with **Spring Boot, Spring MVC, Hiberna
 </p>
 
 <p align="center"><i>Open to Associate Software Developer / Intern roles — Java • Spring Boot • React.js</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riyansh-ajmera&style=flat-square&color=6DB33F" alt="profile views" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=100&section=footer" width="100%" />
