@@ -123,8 +123,3 @@ A full-stack Airbnb Clone REST API built with **Spring Boot, Spring MVC, Hiberna
 </p>
 
 <p align="center"><i>Open to Associate Software Developer / Intern roles — Java • Spring Boot • React.js</i></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riyansh-ajmera&style=flat-square&color=6DB33F" alt="profile views" />
-</p>
-
