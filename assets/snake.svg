@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 800 120" width="100%" height="120">
+  <defs>
+    <path id="snakePath" d="M -20,60.0 C 160.0,12.0 240.0,108.0 400.0,60.0 S 640.0,12.0 820,60.0 S 400.0,108.0 160.0,60.0 S -20,60.0 -20,60.0" fill="none"/>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#6DB33F" stop-opacity="0"/>
+      <stop offset="10%" stop-color="#6DB33F" stop-opacity="0.15"/>
+      <stop offset="90%" stop-color="#6DB33F" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#6DB33F" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M -20,60.0 C 160.0,12.0 240.0,108.0 400.0,60.0 S 640.0,12.0 820,60.0 S 400.0,108.0 160.0,60.0 S -20,60.0 -20,60.0" fill="none" stroke="url(#fade)" stroke-width="2"/>
+  
+    <circle r="8.0" fill="#6DB33F" opacity="1.00">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.0s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="7.7" fill="#6DB33F" opacity="0.95">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.08s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="7.3" fill="#6DB33F" opacity="0.90">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.16s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="7.0" fill="#6DB33F" opacity="0.85">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.24s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="6.7" fill="#6DB33F" opacity="0.80">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.32s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="6.3" fill="#6DB33F" opacity="0.75">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.4s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="6.0" fill="#6DB33F" opacity="0.70">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.48s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="5.7" fill="#6DB33F" opacity="0.65">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.56s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="5.3" fill="#6DB33F" opacity="0.60">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.64s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="5.0" fill="#6DB33F" opacity="0.55">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.72s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="4.7" fill="#6DB33F" opacity="0.50">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.8s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+
+    <circle r="4.3" fill="#6DB33F" opacity="0.45">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="-0.88s" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+</svg>
