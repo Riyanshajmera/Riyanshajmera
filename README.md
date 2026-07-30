@@ -17,9 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=120&section=header" width="100%" />
-</p>
 
 ---
 
@@ -131,4 +128,3 @@ A full-stack Airbnb Clone REST API built with **Spring Boot, Spring MVC, Hiberna
   <img src="https://komarev.com/ghpvc/?username=riyansh-ajmera&style=flat-square&color=6DB33F" alt="profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=100&section=footer" width="100%" />
